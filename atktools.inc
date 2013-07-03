@@ -1,10 +1,9 @@
 <?php
 
   /**
-   * This file is part of the Achievo ATK distribution.
-   * Detailed copyright and licensing information can be found
-   * in the doc/COPYRIGHT and doc/LICENSE files which should be
-   * included in the distribution.
+   *  Test change of comments.
+   *     
+   * 
    *
    * @package atk
    *
